@@ -1,0 +1,17 @@
+Passos importantes:
+
+1. Importar o DataFrame
+2. Converter todos os tipos int,float,datetime
+3. Verificar os nulos
+4. Verificar os duplicados
+5. Verificar possíveis outliers
+6. Transformar variáveis categóricas em numeros (Quando for utilizar Machine Learning)
+7. Separar dados de treino e de teste
+8. Fazer balanceamento da variável alvo caso seja necessário
+9. Levantar as features (input X) e o alvo (output y)
+10. Treinar o modelo
+11. Testar modelo
+12. Avaliar as métricas do modelo
+13. Otmizar hiperparâmetros e otimizar o modelo
+14. Avaliar as métricas novamente
+15. Levantar conclusões
